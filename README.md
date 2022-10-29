@@ -1,4 +1,4 @@
-# python-T1
+# Python-T1
 The weight of a python is about 160 kg.
 If a 300 kg ship with 3 If we send a number of these giant snakes to the moon,
 what will be the total weight of this ship and its passengers on the moon?
